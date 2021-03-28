@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Quote</string>
+    <string name="Quote1">Stay away from negative people because they have problem for every solution. \n - Albert Einstein</string>
+    <string name="Quote2">You cannot go back and change the beginning but you can start where you are and change the ending. \n- C.S.Lewis</string>
+    <string name="Quote3">Work Hard in Silence let your Success make the Noise. \n- Tiffany Trump</string>
+    <string name="Quote4">To accomplish great things you must not only act,but also dream,not only plan,but also believe. \n- Anatole France</string>
+    <string name="Quote5">The difference between stumbling block and a stepping stone is how high you raise your foot. \n- Benny Lewis</string>
+    <string name="Quote6">If you want to lift yourself up,lift someone else up. \n- Booker T.Washington</string>
+    <string name="Quote7">Success is not final, failure is not fatal it is the Courage to continue that counts \n - Winston Churchill</string>
+    <string name="Quote8">Believe you can and your halfway there \n - Theodore Roosevelt</string>
+    <string name="Quote9">Life is like riding a bicycle to keep your balance ,you must keep moving</string>
+    <string name="Quote10">We know what we are, but know not what we may be \n -William Shakespeare</string>
+    <string name="Quote11">If opportunity does not knock, build a door \n Milton Berle</string>
+    <string name="Quote12">All of us do not have equal talent.But, all of us have an equal opportunity to develop our talents\n - Dr.APJ.Abdul Kalaam</string>
+    <string name="Quote13">We may encounter many defeats but we must be defeated \n - Maya Angelou</string>
+    <string name="Quote14">The Man who has confidence in himself gains the confidence of others \n - Hasidic</string>
+    <string name="Quote15">Creativity is Intelligence having fun \n - Albert Einstein</string>
+    <string name="Quote16">Fake it until you make it! Act as if you had all the confidence you require until it becomes reality \n - Brian Tracy</string>
+    <string name="Quote17">You do not have to be great to start, but you have to start to be great \n - Zig Ziglar </string>
+    <string name="Quote18">If a plan does not work, change the plan, but not the goal  </string>
+    <string name="Quote19">Let the past make you better not bitter \n - Buddha</string>
+    <string name="Quote20">Do not listen to what the world says, listen to what it needs.Listen to its heart not its tongue.Its tongue confuses you.Its heart shows you the way and trumpets the gospel</string>
+    <string name="next_quote">Next Quote</string>
+    <string name="the_quote_will_be_displayed_here">The Quote will be displayed here</string>
+
+
+</resources>
